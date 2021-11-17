@@ -1,0 +1,15 @@
+/* .campo-contenedor {
+    position: relative;
+}
+.campo-contenedor input {
+    padding: 0 40px; 
+ } */
+
+ .form-row{
+     position: relative;
+ }
+ .row{
+     padding: 10px;
+     margin: 50px;
+     justify-content: center;
+ }
